@@ -1,0 +1,33 @@
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node / Angular / React
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Java / Spring Boot
+target/
+**/target/
+*.class
+*.log
+
+# Env files
+.env
+
+# Archives
+*.zip
+# Eclipse / STS
+.classpath
+.project
+.settings/
+# React / Node
+node_modules/
+**/node_modules/
+build/
+**/build/
+.env
